@@ -1,0 +1,26 @@
+#principal {
+	width:670px;
+	margin: 10px 5px 25px 25px;	
+	float:left;
+	display:inline;
+	}
+* html #auxiliar {
+	height:500px;
+	}
+dl, dd {
+	margin:0;
+	padding:0;
+	}
+#principal dl {
+	width:152px;
+	float:left;
+	margin-bottom:30px;
+	}
+		
+.clear {
+	clear:both;
+	height:1px;
+	border-top:1px solid #fc6;
+	}
+#principal dl.central {margin: 0 20px;}
+h2 {font-size:20px;}
