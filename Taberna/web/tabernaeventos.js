@@ -32,16 +32,18 @@ function montarHTML(listaEventos){
         else
             str += "<dl>";
         
-        str+= "<dd>";
-        str+= "<figure>";
-        str+= "<img src='"+ "TabernaEstilos/acess1.png"+
-                "' alt='"+listaEventos[ind].nome+" width=117 height=155' />";
-        str+= "</figure>";
-        str+= "</dd>";
+        //str+= "<dd>";
+        //str+= "<figure>";
+        //str+= "<img src='"+ "TabernaEstilos/acess1.png"+
+        //        "' alt='"+listaEventos[ind].nome+" width=117 height=155' />";
+        //str+= "</figure>";
+        //str+= "</dd>";
         str+= "<dt>";
-        str+= "<a href='#'>"+listaEventos[ind].nome+"</a>";
+        str+= "<a href='#'>"+listaEventos[ind].ministrante+"</a>";
         str+= "</dt>";
-        str+= "<dd>" +listaEventos[ind].descricao+"</dd>";
+        str+= "<dd>" +listaEventos[ind].local+"</dd>";
+        str+= "<dd>" +listaEventos[ind].horario+"</dd>";
+        str+= "<dd>" +listaEventos[ind].valor+"</dd>";
         str+= "</dl>";
         
         if (ind %3 === 2)

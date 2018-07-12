@@ -1,7 +1,7 @@
 class ProdutoController {
     constructor() {
         this._service = new ProdutoHttpService();
-        this.motorView = new ProdutoView("#produtos");
+        this.eventoView = new ProdutoView("#produtos");
         
     }
 

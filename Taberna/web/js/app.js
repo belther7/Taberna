@@ -1,8 +1,10 @@
 let controller = new ProdutoController();
+let controller = new EventoController();
 console.log("Mapeando");
 //bind: associa o controller como this. Se nao tiver, ele vai achar que a referencia é o document e não o controller
 //Ou seja,quando chamarmos o carregaMotores e este chamar this._service, ele vai pensar que o this é referente ao controller e não ao document.
 window.addEventListener('load',controller.carregaProdutos.bind(controller));
+window.addEventListener('load',controller.carregaEventos.bind(controller));
 
 //bind: associa o controller como this. Se nao tiver, ele vai achar que a referencia é o document e não o controller
 //Ou seja,quando chamarmos o salvar e este chamar this._service, ele vai pensar que o this é referente ao controller e não ao document.
