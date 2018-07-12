@@ -37,10 +37,10 @@ public class ProdutoRN {
         TypedQuery<Produto> query = manager.createQuery("SELECT p FROM Produto p", Produto.class);
         List<Produto> listaProdutos = query.getResultList();
 
-        System.out.println("Produtos:");
-        for (Produto p : listaProdutos) {
-            System.out.println(p.getNome() + "-" + p.getMarca() + "-" + p.getTipo() + "-" + p.getDescricao() + "-" + p.getValor());
-        }
+//        System.out.println("Produtos:");
+//        for (Produto p : listaProdutos) {
+//            System.out.println(p.getNome() + "-" + p.getMarca() + "-" + p.getTipo() + "-" + p.getDescricao() + "-" + p.getValor());
+//        }
 
         manager.close();
 

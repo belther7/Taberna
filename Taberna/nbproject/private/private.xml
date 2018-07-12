@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/js/view/ProdutoView.js</file>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/js/service/ProdutoHttpService.js</file>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/js/app.js</file>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/js/app_eve.js</file>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/cadastraproduto.html</file>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/tabernaprodutos.js</file>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/js/dominio/Produto.js</file>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/cadastraevento.html</file>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/js/view/EventoView.js</file>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/js/controller/EventoController.js</file>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/tabernaeventos.js</file>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/js/dominio/Evento.js</file>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/deletaproduto.html</file>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/js/service/EventoHttpService.js</file>
+            <file>file:/C:/Users/181000386/Documents/NetBeansProjects/TabernaFri-nova-vers-o/Taberna/web/js/controller/ProdutoController.js</file>
+        </group>
+    </open-files>
 </project-private>
